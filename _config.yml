@@ -1,0 +1,28 @@
+name: blurspot
+favicon: null
+layout_spectrum: 0.18173888372257352
+typography_spectrum: 0.9012061085086316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6741028712131083
+  lightness: 0.3211132937576622
+  saturation: 0.7258671084418893
+  rhythmicContrast: 0.3548788025509566
+purpose: []
