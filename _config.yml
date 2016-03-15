@@ -1,7 +1,7 @@
 name: blurspot
 favicon: null
-layout_spectrum: 0.18173888372257352
-typography_spectrum: 0.9012061085086316
+layout_spectrum: 0.15559
+typography_spectrum: 0.5521
 cta:
   domain: null
   bucket: null
