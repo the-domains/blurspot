@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[blurspot]]></title>
         <description><![CDATA[blurspot]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blurspot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 13:37:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 20:54:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blurspot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is Blurspot</p>]]></description>
-            <link>undefinedthis-is-blurspot/index.html</link>
+            <link>https://thegrid.ai/blurspot/this-is-blurspot/index.html</link>
             <guid isPermaLink="false">e393c018-470b-4060-a79c-3b8a1f0eb638</guid>
-            <pubDate>Wed, 27 Jul 2016 13:37:07 GMT</pubDate>
+            <pubDate>Wed, 27 Jul 2016 20:54:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
