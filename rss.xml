@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[blurspot]]></title>
+        <description><![CDATA[blurspot]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jul 2016 13:37:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is Blurspot</p>]]></description>
+            <link>undefinedthis-is-blurspot/index.html</link>
+            <guid isPermaLink="false">e393c018-470b-4060-a79c-3b8a1f0eb638</guid>
+            <pubDate>Wed, 27 Jul 2016 13:37:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
